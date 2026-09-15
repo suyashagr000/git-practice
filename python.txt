@@ -1,0 +1,12 @@
+My Python Project 
+
+This is a simple python project that demonstrates basic programming concepts
+
+Features:
+- User input
+- Data processing
+- File Handling
+- Error Handling
+
+Requirements: 
+- Python 3.x
