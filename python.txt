@@ -10,3 +10,5 @@ Features:
 
 Requirements: 
 - Python 3.x
+- VS Code Editor
+- Code Runner Extension
